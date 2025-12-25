@@ -1,57 +1,66 @@
 # Matheus Souza 👋
 
 Backend Engineer & Software Architect  
-Especialista em **.NET, Kafka, Kubernetes e Arquiteturas Distribuídas**
+Especialista em **.NET, C#, Kafka e Arquiteturas Distribuídas**
 
 ---
 
 ## 🚀 Sobre mim
-Atuo no desenvolvimento de **sistemas críticos e de alta escala**, com foco em:
-- Arquitetura resiliente e orientada a eventos
-- Integrações antifraude e fluxos regulatórios
-- Modelagem de domínio (DDD) e código sustentável
-- Observabilidade, performance e confiabilidade em produção
+Atuo no desenvolvimento de **sistemas backend de média e alta complexidade**, com foco em:
+- Arquitetura sustentável e orientada a domínio
+- Evolução e modernização de sistemas legados
+- Integrações complexas e processamento assíncrono
+- Código limpo, testável e preparado para produção
 
-Tenho forte experiência em **orquestração de fluxos complexos**, mensageria, jobs críticos e sistemas que **não podem falhar**.
+Tenho experiência prática desde **ASP.NET WebForms**, passando por **ASP.NET MVC**, até **ASP.NET Core (.NET 7/8)**, acompanhando a evolução da plataforma e aplicando boas práticas em cada contexto.
 
 ---
 
 ## 🧱 Stack principal
-- **Backend**: .NET 7/8 • C# • ASP.NET Core
-- **Arquitetura**: DDD • CQRS • Event-Driven • Hexagonal
-- **Mensageria**: Kafka (consumers resilientes, retry, DLQ, idempotência)
-- **Dados**: SQL Server • PostgreSQL • MySQL • MongoDB • DynamoDB
-- **Infra**: Docker • Kubernetes • AWS • Azure • GCP
-- **Observabilidade**: Logs estruturados • Métricas • Tracing
-- **Outros**: Hangfire • GitHub Actions • CI/CD • RFCs e documentação técnica
+- **Backend**:  
+  ASP.NET WebForms • ASP.NET MVC • ASP.NET Core • .NET 7/8 • C#
+
+- **Arquitetura**:  
+  DDD • Modelo Rico • CQRS • Event-Driven • Arquitetura Hexagonal
+
+- **Mensageria**:  
+  Kafka (consumers resilientes, retry, DLQ, idempotência)
+
+- **Dados**:  
+  SQL Server • PostgreSQL • MySQL • MongoDB • DynamoDB
+
+- **Infra & DevOps**:  
+  Docker • Kubernetes • CI/CD • GitHub Actions  
+  AWS • Azure • GCP
+
+- **Observabilidade & Operação**:  
+  Logs estruturados • Métricas • Tracing • Análise de falhas
 
 ---
 
-## 🏗️ Experiência em domínios complexos
-- Antifraude e biometria (orquestração, regras, fornecedores externos)
-- Assinatura eletrônica e documentos digitais
-- Sistemas financeiros e regulatórios
-- Jobs automatizados e esteiras de processamento
-- Integrações de alto volume e baixa latência
+## 🏗️ Experiência técnica
+- Desenvolvimento e manutenção de sistemas **MVC e APIs REST**
+- Modernização de aplicações **WebForms e ASP.NET legado**
+- Criação de **workers, jobs e serviços assíncronos**
+- Processamento distribuído e mensageria
+- Integrações com sistemas internos e externos
+- Escrita de **documentação técnica, RFCs e decisões arquiteturais**
 
 ---
 
 ## 📌 Repositórios em destaque
-> Projetos focados em **qualidade arquitetural**, não apenas código.
+> Projetos focados em **arquitetura, boas práticas e clareza técnica**.
 
-🔹 Consumers Kafka resilientes  
-🔹 Exemplos de DDD + Modelo Rico  
-🔹 Workers críticos com retry e tolerância a falhas  
-🔹 RFCs e documentação técnica de arquitetura  
-
-*(use a área de “Pinned Repositories” para destacar os melhores)*
+🔹 Exemplos de DDD e Modelo Rico  
+🔹 Consumers Kafka e processamento assíncrono  
+🔹 Workers e jobs resilientes  
+🔹 Estudos e laboratórios técnicos  
 
 ---
 
 ## 📫 Contato
-- LinkedIn: 
 - GitHub: https://github.com/SouzaMatheus-dev
 
 ---
 
-> “Código é detalhe. Arquitetura é o que sustenta o sistema em produção.”
+> “Experiência se constrói evoluindo sistemas reais — do legado ao moderno.”
