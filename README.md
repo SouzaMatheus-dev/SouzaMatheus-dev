@@ -1,7 +1,7 @@
 # Matheus Souza 👋
 
 Backend Engineer & Software Architect  
-Especialista em **.NET, C#, Kafka e Arquiteturas Distribuídas**
+Atuação focada em **.NET, C#, Kafka e Arquiteturas Distribuídas**
 
 ---
 
