@@ -1,66 +1,91 @@
-# Matheus Souza 👋
+# Matheus Souza
 
-Backend Engineer & Software Architect  
-Atuação focada em **.NET, C#, Kafka e Arquiteturas Distribuídas**
+**Arquiteto de Software | Liderança Técnica em Backend e Sistemas Distribuídos**
 
 ---
 
 ## 🚀 Sobre mim
-Atuo no desenvolvimento de **sistemas backend de média e alta complexidade**, com foco em:
-- Arquitetura sustentável e orientada a domínio
-- Evolução e modernização de sistemas legados
-- Integrações complexas e processamento assíncrono
-- Código limpo, testável e preparado para produção
 
-Tenho experiência prática desde **ASP.NET WebForms**, passando por **ASP.NET MVC**, até **ASP.NET Core (.NET 7/8)**, acompanhando a evolução da plataforma e aplicando boas práticas em cada contexto.
+Atuo na concepção, evolução e sustentação de **arquiteturas backend de média e alta criticidade**, com foco em confiabilidade, escalabilidade e clareza arquitetural.
 
----
+Minha experiência está concentrada em:
 
-## 🧱 Stack principal
-- **Backend**:  
-  ASP.NET WebForms • ASP.NET MVC • ASP.NET Core • .NET 7/8 • C#
+* Sistemas distribuídos e processamento assíncrono
+* Arquiteturas orientadas a domínio
+* Resiliência e consistência eventual
+* Modernização de plataformas legadas
+* Tomada de decisões arquiteturais sustentáveis
 
-- **Arquitetura**:  
-  DDD • Modelo Rico • CQRS • Event-Driven • Arquitetura Hexagonal
-
-- **Mensageria**:  
-  Kafka (consumers resilientes, retry, DLQ, idempotência)
-
-- **Dados**:  
-  SQL Server • PostgreSQL • MySQL • MongoDB • DynamoDB
-
-- **Infra & DevOps**:  
-  Docker • Kubernetes • CI/CD • GitHub Actions  
-  AWS • Azure • GCP
-
-- **Observabilidade & Operação**:  
-  Logs estruturados • Métricas • Tracing • Análise de falhas
+Tenho trajetória prática desde aplicações WebForms até arquiteturas modernas baseadas em eventos, sempre priorizando **qualidade estrutural, previsibilidade operacional e capacidade de evolução do sistema ao longo do tempo**.
 
 ---
 
-## 🏗️ Experiência técnica
-- Desenvolvimento e manutenção de sistemas **MVC e APIs REST**
-- Modernização de aplicações **WebForms e ASP.NET legado**
-- Criação de **workers, jobs e serviços assíncronos**
-- Processamento distribuído e mensageria
-- Integrações com sistemas internos e externos
-- Escrita de **documentação técnica, RFCs e decisões arquiteturais**
+## 🧱 Atuação Técnica
+
+### Arquitetura
+
+* Domain-Driven Design (DDD)
+* Modelo Rico
+* CQRS
+* Arquitetura Hexagonal
+* Event-Driven Architecture
+* Event Sourcing
+* Outbox Pattern
+* Estratégias de resiliência (retry, idempotência, DLQ, controle de vazão)
+
+### Plataforma Principal
+
+* .NET (Core / 7 / 8)
+* ASP.NET Core
+* Workers e serviços assíncronos
+
+### Mensageria
+
+* Kafka (consumidores resilientes, paralelismo controlado, reprocessamento)
+* RabbitMQ
+
+### Dados
+
+* SQL Server
+* PostgreSQL
+* Modelagem relacional e otimização de consultas
+
+### Infraestrutura & Operação
+
+* Docker
+* Kubernetes
+* CI/CD
+* Observabilidade (logs estruturados, métricas, tracing)
 
 ---
 
-## 📌 Repositórios em destaque
-> Projetos focados em **arquitetura, boas práticas e clareza técnica**.
+## 🏗️ Experiência Aplicada
 
-🔹 Exemplos de DDD e Modelo Rico  
-🔹 Consumers Kafka e processamento assíncrono  
-🔹 Workers e jobs resilientes  
-🔹 Estudos e laboratórios técnicos  
+* Construção de esteiras assíncronas com priorização e controle de vazão
+* Implementação de padrões de consistência e confiabilidade em ambientes distribuídos
+* Integração entre múltiplos sistemas internos e externos
+* Evolução e refatoração de sistemas legados para arquiteturas modernas
+* Escrita de RFCs, documentação técnica e decisões arquiteturais
+
+---
+
+## 🎯 Direcionamento Profissional
+
+Atuo na interseção entre **engenharia e arquitetura**, buscando:
+
+* Reduzir acoplamento
+* Aumentar previsibilidade operacional
+* Melhorar a capacidade de evolução do software
+* Garantir robustez em sistemas distribuídos
+
+Arquitetura, para mim, é sobre **decisões que permanecem corretas mesmo quando a tecnologia muda**.
 
 ---
 
 ## 📫 Contato
-- GitHub: https://github.com/SouzaMatheus-dev
+
+🌐 Site:
+[https://matheussouza.tech/](https://matheussouza.tech/)
 
 ---
-
 > “Experiência se constrói evoluindo sistemas reais — do legado ao moderno.”
